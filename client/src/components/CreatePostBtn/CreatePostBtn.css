@@ -1,0 +1,10 @@
+.inputContainer {
+  height: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  border-bottom: solid 3px aqua;
+  border-top: solid 3px aqua ;
+}
